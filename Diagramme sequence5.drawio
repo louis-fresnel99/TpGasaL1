@@ -49,7 +49,7 @@
         <mxCell id="7mvw6QXvbmcej4bywkT1-20" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b&gt;3:Soumettre le formulaire remplit ()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="246" y="271" width="159" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="7mvw6QXvbmcej4bywkT1-49" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;:Visiteur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="7mvw6QXvbmcej4bywkT1-49" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;:Users&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="175" y="133" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="oZIFxZLTTzc2_pUixhOE-2" value="&lt;b&gt;loop&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
