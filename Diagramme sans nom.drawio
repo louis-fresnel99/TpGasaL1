@@ -73,7 +73,7 @@
             <mxPoint x="242.44736842105272" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ynEkc6PMeDTSdzCZtb5-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Liste des offres ()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-ynEkc6PMeDTSdzCZtb5-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Afficher les offres ()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="172" width="118" height="22" as="geometry" />
         </mxCell>
         <mxCell id="-ynEkc6PMeDTSdzCZtb5-25" value="" style="endArrow=block;endFill=1;endSize=12;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);" parent="1" target="-ynEkc6PMeDTSdzCZtb5-24" edge="1">
