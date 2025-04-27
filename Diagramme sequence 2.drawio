@@ -25,7 +25,7 @@
             <mxPoint x="371.28" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkDdzqx442pK7366gIHG-18" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 8px;&quot;&gt;&lt;b&gt;2:Consulter ces réservations()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YkDdzqx442pK7366gIHG-18" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 8px;&quot;&gt;&lt;b&gt;1:Demander les&amp;nbsp; réservations()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="239.92" y="217" width="131.08" height="17" as="geometry" />
         </mxCell>
         <mxCell id="YkDdzqx442pK7366gIHG-19" value="" style="endArrow=open;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);dashed=1;strokeWidth=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YkDdzqx442pK7366gIHG-20">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YkDdzqx442pK7366gIHG-20" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Liste des réservations()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="243.28" y="245" width="118" height="22" as="geometry" />
+          <mxGeometry x="248.28" y="245" width="118" height="22" as="geometry" />
         </mxCell>
         <mxCell id="YkDdzqx442pK7366gIHG-21" value="" style="endArrow=block;endFill=1;endSize=12;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -43,7 +43,7 @@
             <mxPoint x="384.5" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkDdzqx442pK7366gIHG-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;3:Demande d&#39;annulation()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YkDdzqx442pK7366gIHG-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2:Demande d&#39;annulation()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241.28" y="287" width="129" height="18" as="geometry" />
         </mxCell>
         <mxCell id="YkDdzqx442pK7366gIHG-35" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
