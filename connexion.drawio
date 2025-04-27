@@ -182,6 +182,9 @@
         <mxCell id="HXRdN1SDrOyEm4HGrO3o-75" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;Afficher interface d&#39;authentification()&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="241" y="336" width="177" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="HXRdN1SDrOyEm4HGrO3o-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CAS D&#39;AUTHENTIFICATION&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="22" width="80" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
