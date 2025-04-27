@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.13">
   <diagram name="Page-1" id="_qcOmSuMuhV6xTqS9fBc">
-    <mxGraphModel dx="868" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="848" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="388" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-S7DJr_aftCFXgjF22eF-23" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b&gt;3:Soumettre le formulaire()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-S7DJr_aftCFXgjF22eF-23" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b&gt;3:Remplir le formulaire()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235.64" y="324" width="145.08" height="17" as="geometry" />
         </mxCell>
         <mxCell id="-S7DJr_aftCFXgjF22eF-40" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1">
@@ -61,7 +61,7 @@
             <mxPoint x="241" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-S7DJr_aftCFXgjF22eF-41" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b&gt;Offre Publier()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-S7DJr_aftCFXgjF22eF-41" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b&gt;Afficher offre publier()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270.28" y="421" width="97" height="17" as="geometry" />
         </mxCell>
         <mxCell id="-S7DJr_aftCFXgjF22eF-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=light-dark(#000000,#000000);dashed=1;" vertex="1" parent="1">
@@ -76,14 +76,14 @@
             <mxPoint x="243" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-S7DJr_aftCFXgjF22eF-45" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Offre Rejeter()&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270.64" y="511" width="94.36" height="17" as="geometry" />
+        <mxCell id="-S7DJr_aftCFXgjF22eF-45" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Afficher Offre Rejeter()&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="511" width="114.36" height="17" as="geometry" />
         </mxCell>
         <mxCell id="-S7DJr_aftCFXgjF22eF-64" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 10px;&quot;&gt;[&lt;b&gt;Contenue correcte&lt;/b&gt;]&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="242" y="402" width="105" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="-S7DJr_aftCFXgjF22eF-75" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;2:Demande de créer un offre()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236" y="262" width="144.72" height="22" as="geometry" />
+        <mxCell id="-S7DJr_aftCFXgjF22eF-75" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;2:Demander création&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;d&#39;une offre()&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="260" width="144.72" height="22" as="geometry" />
         </mxCell>
         <mxCell id="-S7DJr_aftCFXgjF22eF-76" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;:Guide/Organisateur&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="207" y="125" width="61" height="17" as="geometry" />
@@ -119,8 +119,8 @@
             <mxPoint x="241.5" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-S7DJr_aftCFXgjF22eF-89" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;formulaire pour l&#39;offre()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236" y="295" width="144.72" height="22" as="geometry" />
+        <mxCell id="-S7DJr_aftCFXgjF22eF-89" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Afficher formulaire()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="295" width="144.72" height="22" as="geometry" />
         </mxCell>
         <mxCell id="-S7DJr_aftCFXgjF22eF-78" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFFFFF;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="113" y="154" width="479" height="97" as="geometry" />
