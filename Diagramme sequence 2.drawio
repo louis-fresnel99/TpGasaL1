@@ -119,6 +119,9 @@
         <mxCell id="YkDdzqx442pK7366gIHG-64" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;S&#39;authentifier&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="247.28" y="162" width="123.72" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YkDdzqx442pK7366gIHG-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CAS D&#39;ANNULATION D&#39;UNE&amp;nbsp; VISITE&amp;nbsp;&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="22" width="80" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
