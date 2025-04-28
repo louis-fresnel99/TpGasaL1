@@ -49,7 +49,9 @@
           <mxGeometry x="76" y="237" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4liQRK5ihqxxpQc1KS3g-53" value="Système" style="swimlane;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="427" y="128" width="415" height="570" as="geometry" />
+          <mxGeometry x="427" y="128" width="415" height="570" as="geometry">
+            <mxRectangle x="427" y="128" width="82" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4liQRK5ihqxxpQc1KS3g-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="4liQRK5ihqxxpQc1KS3g-53" vertex="1">
           <mxGeometry x="88.5" y="100" width="171.5" height="38" as="geometry" />
@@ -60,9 +62,10 @@
         <mxCell id="4liQRK5ihqxxpQc1KS3g-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="4liQRK5ihqxxpQc1KS3g-53" vertex="1">
           <mxGeometry x="98.5" y="232" width="138.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="4liQRK5ihqxxpQc1KS3g-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4liQRK5ihqxxpQc1KS3g-53" source="4liQRK5ihqxxpQc1KS3g-58" edge="1">
+        <mxCell id="4liQRK5ihqxxpQc1KS3g-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4liQRK5ihqxxpQc1KS3g-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165.75" y="301.00521087646484" as="targetPoint" />
+            <mxPoint x="165.75" y="302.00521087646484" as="targetPoint" />
+            <mxPoint x="165.75" y="268" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4liQRK5ihqxxpQc1KS3g-58" value="&lt;b&gt;Vérifier informations saisir&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4liQRK5ihqxxpQc1KS3g-53" vertex="1">
