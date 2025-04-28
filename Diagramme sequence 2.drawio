@@ -122,9 +122,6 @@
         <mxCell id="uJWc0EG5wa5Y52XD6i-f-28" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Demander Remboursement()&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="473" width="127" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="uJWc0EG5wa5Y52XD6i-f-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
-          <mxGeometry x="241" y="519" width="10" height="24" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
