@@ -26,23 +26,6 @@
         <mxCell id="LyZk9FM3aCZYYO_AvAmw-46" value="&lt;b&gt;Demande d&#39;annulation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LyZk9FM3aCZYYO_AvAmw-41">
           <mxGeometry x="85" y="104" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LyZk9FM3aCZYYO_AvAmw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LyZk9FM3aCZYYO_AvAmw-41" source="LyZk9FM3aCZYYO_AvAmw-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="231.00521087646484" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LyZk9FM3aCZYYO_AvAmw-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LyZk9FM3aCZYYO_AvAmw-41">
-          <mxGeometry x="55" y="164" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="LyZk9FM3aCZYYO_AvAmw-49" value="&lt;b&gt;Remplir le formulaire&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LyZk9FM3aCZYYO_AvAmw-41">
-          <mxGeometry x="76" y="168" width="78" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LyZk9FM3aCZYYO_AvAmw-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LyZk9FM3aCZYYO_AvAmw-41">
-          <mxGeometry x="55" y="233" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="LyZk9FM3aCZYYO_AvAmw-52" value="&lt;b&gt;Soumettre le formulaire&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LyZk9FM3aCZYYO_AvAmw-41">
-          <mxGeometry x="76" y="237" width="78" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LyZk9FM3aCZYYO_AvAmw-53" value="Système" style="swimlane;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="58" width="338" height="570" as="geometry" />
         </mxCell>
