@@ -345,14 +345,20 @@
         <mxCell id="_ejCU_rRlJFC165mmWsl-291" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fillStyle=solid;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="788" y="871" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_ejCU_rRlJFC165mmWsl-292" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information correct]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
+        <mxCell id="_ejCU_rRlJFC165mmWsl-292" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information correcte]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
           <mxGeometry x="616" y="671" width="100" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_ejCU_rRlJFC165mmWsl-293" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information incorrect]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
-          <mxGeometry x="756" y="667" width="100" height="23" as="geometry" />
+        <mxCell id="_ejCU_rRlJFC165mmWsl-293" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information incorrecte]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
+          <mxGeometry x="756" y="667" width="106" height="23" as="geometry" />
         </mxCell>
         <mxCell id="_ejCU_rRlJFC165mmWsl-294" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillStyle=solid;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=light-dark(#000000,#000000);fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="509" y="574" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="_ejCU_rRlJFC165mmWsl-297" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information correcte]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
+          <mxGeometry x="336" y="402" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="_ejCU_rRlJFC165mmWsl-298" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information incorrecte]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" vertex="1" parent="1">
+          <mxGeometry x="476" y="398" width="106" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
