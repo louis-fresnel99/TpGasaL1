@@ -360,7 +360,7 @@
         <mxCell id="_ejCU_rRlJFC165mmWsl-298" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;[Information incorrecte]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=light-dark(#ffffff, #000000);" parent="1" vertex="1">
           <mxGeometry x="838" y="479" width="106" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="z8olPh-3Eqmsdjr-u5Of-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CAS DE PUBLICATION D&#39;UNE OFFRE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z8olPh-3Eqmsdjr-u5Of-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CAS DE RESERVATION DE VISITE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="617" y="44" width="421.5" height="36" as="geometry" />
         </mxCell>
       </root>
