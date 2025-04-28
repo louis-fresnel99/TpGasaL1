@@ -104,9 +104,6 @@
         <mxCell id="uJWc0EG5wa5Y52XD6i-f-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="uJWc0EG5wa5Y52XD6i-f-12">
           <mxGeometry x="48" y="413" width="10" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uJWc0EG5wa5Y52XD6i-f-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
-          <mxGeometry x="590" y="395" width="10" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="uJWc0EG5wa5Y52XD6i-f-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="YkDdzqx442pK7366gIHG-47" target="uJWc0EG5wa5Y52XD6i-f-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="436" y="538" as="sourcePoint" />
