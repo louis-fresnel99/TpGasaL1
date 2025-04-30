@@ -135,6 +135,9 @@
         <mxCell id="_ejCU_rRlJFC165mmWsl-113" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Soumettre le formulaire&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="496" y="727" width="93" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_ejCU_rRlJFC165mmWsl-120" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Système bancaire&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="965" y="115" width="267" height="903" as="geometry" />
+        </mxCell>
         <mxCell id="_ejCU_rRlJFC165mmWsl-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=light-dark(#000000,#000000);" parent="1" source="_ejCU_rRlJFC165mmWsl-167" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100.9999999999998" y="614.3654365539551" as="targetPoint" />
