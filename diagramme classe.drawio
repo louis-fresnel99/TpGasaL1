@@ -167,6 +167,9 @@
         <mxCell id="nRTBxxkqmZJJOvBfr9Is-16" value="- Organisation" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=default;textShadow=0;fontColor=default;" vertex="1" parent="nRTBxxkqmZJJOvBfr9Is-18">
           <mxGeometry y="48.285714285714285" width="130" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="nRTBxxkqmZJJOvBfr9Is-136" value="- TypeEvenement" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=default;textShadow=0;fontColor=default;" vertex="1" parent="nRTBxxkqmZJJOvBfr9Is-18">
+          <mxGeometry y="74.28571428571428" width="130" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="nRTBxxkqmZJJOvBfr9Is-69" value="" style="group" vertex="1" connectable="0" parent="nRTBxxkqmZJJOvBfr9Is-92">
           <mxGeometry x="173" y="452" width="130" height="120" as="geometry" />
         </mxCell>
