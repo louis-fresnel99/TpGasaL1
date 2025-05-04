@@ -146,6 +146,9 @@
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ec-df3vdIZZ4H335Q0Bi-81" target="Ec-df3vdIZZ4H335Q0Bi-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-92" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CAS DE PAIEMENT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="18" width="257" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
