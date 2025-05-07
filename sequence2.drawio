@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJgPdssfd5ZBFopepQbS-71" value="&lt;b&gt;Message d&#39;erreur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
+        <mxCell id="aJgPdssfd5ZBFopepQbS-71" value="&lt;b&gt;Afficher message d&#39;erreur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
           <mxGeometry x="194" y="357.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-78" value="[Informations correcte]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
@@ -145,14 +145,14 @@
             <mxPoint x="254" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJgPdssfd5ZBFopepQbS-107" value="&lt;b&gt;Inscription Réussie&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
+        <mxCell id="aJgPdssfd5ZBFopepQbS-107" value="&lt;b&gt;Réussir inscription&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
           <mxGeometry x="204" y="187.5" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-108" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
           <mxGeometry x="33" y="185" width="100" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="aJgPdssfd5ZBFopepQbS-109" value="&lt;b&gt;Inscription rejeter&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
-          <mxGeometry x="32" y="191" width="101" height="30" as="geometry" />
+        <mxCell id="aJgPdssfd5ZBFopepQbS-109" value="&lt;b&gt;Rejeter inscription&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
+          <mxGeometry x="32" y="189" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-110" value="[Utilisateur existe déja]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aJgPdssfd5ZBFopepQbS-80" vertex="1">
           <mxGeometry x="16" y="106" width="124" height="30" as="geometry" />
