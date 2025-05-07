@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1039" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,9 +76,9 @@
         <mxCell id="aJgPdssfd5ZBFopepQbS-61" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="142.88" y="302" width="45.75" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z1i1sD15mt1dR7P6Gg6X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3" source="aJgPdssfd5ZBFopepQbS-65">
+        <mxCell id="Z1i1sD15mt1dR7P6Gg6X-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="aJgPdssfd5ZBFopepQbS-71" target="aJgPdssfd5ZBFopepQbS-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="248.25" y="411.4315490722656" as="targetPoint" />
+            <mxPoint x="264.9860941569011" y="173.42098363240564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
@@ -87,16 +87,8 @@
         <mxCell id="aJgPdssfd5ZBFopepQbS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3" source="aJgPdssfd5ZBFopepQbS-61" target="aJgPdssfd5ZBFopepQbS-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgPdssfd5ZBFopepQbS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3" source="Z1i1sD15mt1dR7P6Gg6X-7" target="aJgPdssfd5ZBFopepQbS-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="316" y="431" />
-              <mxPoint x="316" y="109" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-71" value="&lt;b&gt;Afficher message d&#39;erreur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
-          <mxGeometry x="194" y="357.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="195" y="360.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-78" value="[Informations correcte]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
           <mxGeometry x="18" y="277" width="124" height="30" as="geometry" />
@@ -109,9 +101,6 @@
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-102" value="&lt;b&gt;Envoyer les données au SGDB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3" vertex="1">
           <mxGeometry x="25" y="436" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z1i1sD15mt1dR7P6Gg6X-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="228.75" y="413" width="39" height="36" as="geometry" />
         </mxCell>
         <mxCell id="aJgPdssfd5ZBFopepQbS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aJgPdssfd5ZBFopepQbS-45" target="aJgPdssfd5ZBFopepQbS-48" edge="1">
           <mxGeometry relative="1" as="geometry">
