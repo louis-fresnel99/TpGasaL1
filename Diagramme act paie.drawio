@@ -23,7 +23,7 @@
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-41">
           <mxGeometry x="55" y="100" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-46" value="&lt;b&gt;Demande de reservation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-41">
+        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-46" value="&lt;b&gt;Demander réservation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-41">
           <mxGeometry x="65" y="104" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-41">
@@ -67,15 +67,23 @@
           <mxGeometry x="142.88" y="242" width="45.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
-          <mxGeometry x="194" y="292" width="108.5" height="31" as="geometry" />
+          <mxGeometry x="194" y="295" width="108.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ec-df3vdIZZ4H335Q0Bi-47" source="Ec-df3vdIZZ4H335Q0Bi-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="256.0619999999999" y="293.403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-55" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Message d&#39;erreur&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
-          <mxGeometry x="194" y="291.5" width="110" height="30" as="geometry" />
+        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ec-df3vdIZZ4H335Q0Bi-47" source="Ec-df3vdIZZ4H335Q0Bi-55" target="Ec-df3vdIZZ4H335Q0Bi-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="307" />
+              <mxPoint x="335" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher message d&#39;erreur&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
+          <mxGeometry x="194" y="300.25" width="110" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-56" value="&lt;b&gt;[informations correcte]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
           <mxGeometry x="18" y="217" width="124" height="30" as="geometry" />
@@ -103,7 +111,7 @@
             <mxPoint x="79.88000000000011" y="488.67183685302734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-62" value="&lt;b&gt;Réservation réussie&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
+        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-62" value="&lt;b&gt;Réussir réservation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
           <mxGeometry x="24.879999999999995" y="427" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-63" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
@@ -114,26 +122,6 @@
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-72" value="&lt;b&gt;Afficher formulaire de paiement&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
           <mxGeometry x="107.5" y="104" width="112.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=light-dark(#000000,#000000);exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Ec-df3vdIZZ4H335Q0Bi-47" target="Ec-df3vdIZZ4H335Q0Bi-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="354" />
-              <mxPoint x="310" y="120" />
-              <mxPoint x="220" y="120" />
-            </Array>
-            <mxPoint x="250.5" y="120" as="targetPoint" />
-            <mxPoint x="258.5" y="354.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-89" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;fillStyle=solid;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=light-dark(#000000,#000000);" vertex="1" parent="Ec-df3vdIZZ4H335Q0Bi-47">
-          <mxGeometry x="240" y="347" width="18" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="Ec-df3vdIZZ4H335Q0Bi-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645.8333333333335" y="403.0000000000001" as="targetPoint" />
-            <mxPoint x="645.8" y="382" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ec-df3vdIZZ4H335Q0Bi-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ec-df3vdIZZ4H335Q0Bi-71" target="Ec-df3vdIZZ4H335Q0Bi-75">
           <mxGeometry relative="1" as="geometry">
